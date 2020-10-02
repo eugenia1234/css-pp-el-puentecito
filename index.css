@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(241,233, 203);
+}
+#title {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(153,91,10 );
+    text-align: center;
+    width: 100%px;
+    height:90px;
+    padding-top: 50px;
+    border-bottom:1px solid rgba(255, 0, 0, 0.356);
+}
+#title::selection {
+    background-color: black;
+    color: white;
+}
+.title-2 {
+    text-align: center;
+    font-size: 250%;
+    color: gray;
+}
